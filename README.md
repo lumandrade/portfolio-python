@@ -8,7 +8,7 @@ Este repositório reúne uma coleção de pequenos projetos desenvolvidos em Pyt
 
 ### ➕ Soma com *args  
 Função que realiza a soma de números usando argumentos variáveis.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Soma_Variavel_Args)  
 🛠️ Tecnologias: Python puro, função com `*args`
 
 ---
