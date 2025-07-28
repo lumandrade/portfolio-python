@@ -57,7 +57,7 @@ Sistema com herança entre classes Pessoa, Pessoa Física e Jurídica.
 
 ### 🎓 Análise de Notas  
 Cálculo de média, identificação de maior/menor nota, e geração de gráfico.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Analise_Notas)  
 🛠️ Tecnologias: Python, Matplotlib
 
 ---
