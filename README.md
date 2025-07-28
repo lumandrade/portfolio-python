@@ -43,7 +43,7 @@ Solicita um número inteiro com tratamento de exceções.
 
 ### 🚗 Classe Carro  
 Classe com atributos e métodos para simular comportamento de um carro.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Classe_Carro_Simples)  
 🛠️ Tecnologias: Programação orientada a objetos (POO)
 
 ---
