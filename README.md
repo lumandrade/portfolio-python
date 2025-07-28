@@ -15,7 +15,7 @@ Função que realiza a soma de números usando argumentos variáveis.
 
 ### 💰 Cálculo de Juros Compostos  
 Calculadora de montante com aplicação de juros compostos.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Calculo_Juros_Compostos)  
 🛠️ Tecnologias: Python puro, matemática financeira
 
 ---
