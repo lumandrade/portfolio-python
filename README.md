@@ -36,7 +36,7 @@ Solicita e exibe uma data formatada com validação.
 
 ### 🧪 Entrada com Validação  
 Solicita um número inteiro com tratamento de exceções.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Entrada_Valida_Inteiro)  
 🛠️ Tecnologias: Python puro, `try/except`
 
 ---
