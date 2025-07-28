@@ -22,7 +22,7 @@ Calculadora de montante com aplicação de juros compostos.
 
 ### 🧾 Recibo Formatado  
 Recebe dados de compra e imprime um recibo com valores formatados.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Recibo_Compra_Formatado)  
 🛠️ Tecnologias: Python puro, `f-string`
 
 ---
