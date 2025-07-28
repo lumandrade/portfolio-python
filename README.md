@@ -29,7 +29,7 @@ Recebe dados de compra e imprime um recibo com valores formatados.
 
 ### 📆 Data Formatada  
 Solicita e exibe uma data formatada com validação.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Data_Formatada_Usuario)  
 🛠️ Tecnologias: Python puro, input e formatação
 
 ---
