@@ -1,0 +1,159 @@
+# 🐍 Projetos em Python
+
+Este repositório reúne pequenos projetos desenvolvidos em Python com foco em lógica de programação, automação, dashboards simples e prática com bibliotecas populares. Os projetos foram realizados durante meus estudos e prática pessoal com a linguagem.
+
+---
+
+## 📁 Projetos
+
+### 📝 Analise de Notas  
+Calcula estatísticas básicas de notas de alunos a partir de uma lista fornecida.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 📊 Análise de Supermercado com Streamlit  
+Dashboard interativo com métricas de vendas em um supermercado fictício.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, Streamlit, Plotly
+
+---
+
+### ⚪ Área do Círculo  
+Calculadora simples que retorna a área de um círculo a partir do raio.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, Math
+
+---
+
+### 👤 Cadastro de Pessoas  
+Sistema que cadastra nome, idade e CPF de pessoas em um dicionário.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 💰 Cálculo de Juros Compostos  
+Recebe capital, taxa e período para calcular o montante final.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, Math
+
+---
+
+### 📉 Cálculo de Média Simples  
+Recebe várias notas e retorna a média aritmética.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 🚗 Classe Carro Simples  
+Classe `Carro` com métodos como ligar, desligar e exibir status.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python (POO)
+
+---
+
+### 🔍 Classificador de Suspeitos  
+Simula uma investigação com perguntas e classifica o usuário conforme as respostas.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 🌡️ Conversor Fahrenheit ⇄ Celsius  
+Converte temperatura entre Celsius e Fahrenheit.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 📈 Dashboard de Vendas Interativo  
+Dashboard em Streamlit com filtros de produtos, regiões e categorias.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, Streamlit, Plotly
+
+---
+
+### 📋 Dashboard de Vendas Validado  
+Versão com validação de dados e mensagens de erro controladas.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, Streamlit
+
+---
+
+### 📅 Data Formatada pelo Usuário  
+Pede uma data e retorna formatada em estilo amigável (Ex: "28 de Julho de 2025").  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, datetime
+
+---
+
+### 🔢 Entrada Válida de Inteiro  
+Valida se o usuário digitou um número inteiro corretamente.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 👨‍👩‍👧 Herança de Pessoas  
+Exemplo de herança entre classes Pessoa, Aluno e Professor.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python (POO)
+
+---
+
+### 🔍 Maior Número Digitado  
+Recebe vários números e exibe o maior deles.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### 🧾 Recibo de Compra Formatado  
+Recebe itens e valores, e imprime um recibo de compra com alinhamento.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python, format strings
+
+---
+
+### 🗳️ Simulador de Votação Eletrônica  
+Simula uma urna com candidatos e contabiliza votos válidos, brancos e nulos.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### ➕ Soma com *args  
+Exemplo do uso de `*args` para somar valores passados em uma função.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+### ✅ Validação de Nota  
+Verifica se as notas digitadas estão dentro de um intervalo permitido.  
+🔗 [Ver projeto](ADICIONAR_LINK)  
+🛠️ Tecnologias: Python
+
+---
+
+## 📎 Estrutura de cada projeto
+
+Cada pasta contém:
+- Código-fonte em `.py`
+- `README.md` individual explicando o funcionamento do projeto
+- Em alguns casos, dados de exemplo e requisitos adicionais
+
+---
+
+## 📝 Observações
+
+- Os projetos são autorais e foram feitos com fins de prática.
+- Alguns projetos interativos requerem instalação de bibliotecas como `streamlit` ou `plotly`.
+
+---
+
+📧 Contato: andradeluma12@gmail.com  
+🔗 [Voltar ao portfólio principal](https://github.com/lumandrade/meu-portfolio)
