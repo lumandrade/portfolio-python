@@ -64,7 +64,7 @@ Cálculo de média, identificação de maior/menor nota, e geração de gráfico
 
 ### 📊 Dashboards Interativos  
 Visualização de dados em dashboards com Streamlit e Plotly.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/dashboard_vendas_interativo)  
 🛠️ Tecnologias: Streamlit, Plotly, pandas
 
 ---
