@@ -50,7 +50,7 @@ Classe com atributos e métodos para simular comportamento de um carro.
 
 ### 👥 Herança de Pessoas  
 Sistema com herança entre classes Pessoa, Pessoa Física e Jurídica.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/heranca_pessoas_python)  
 🛠️ Tecnologias: POO com herança em Python
 
 ---
