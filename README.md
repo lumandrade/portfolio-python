@@ -78,7 +78,7 @@ Conversão entre Celsius e Fahrenheit com formatação de saída.
 
 ### 🔢 Cálculo de Média Simples  
 Recebe múltiplas notas e calcula média aritmética.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Calculo_Media_Simples)  
 🛠️ Tecnologias: Python puro
 
 ---
