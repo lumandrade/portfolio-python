@@ -71,7 +71,7 @@ Visualização de dados em dashboards com Streamlit e Plotly.
 
 ### 🌡️ Conversor de Temperatura  
 Conversão entre Celsius e Fahrenheit com formatação de saída.  
-🔗 [Ver projeto](#)  
+🔗 [Ver projeto](https://github.com/lumandrade/portfolio-python/tree/main/Portfolio%20python/Conversor_Fahrenheit_Celsius)  
 🛠️ Tecnologias: Python puro
 
 ---
